@@ -11,4 +11,8 @@ void inputData(float berat, float tinggi){
 
 }
 
+float hitunganBMI(float berat, float tinggi){
+    return berat / (tinggi * tinggi);
+
+}
 
