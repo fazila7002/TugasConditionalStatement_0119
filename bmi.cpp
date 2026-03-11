@@ -16,3 +16,7 @@ float hitunganBMI(float berat, float tinggi){
 
 }
 
+string cekStatus(float bmi){
+    
+}
+
