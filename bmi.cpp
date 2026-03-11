@@ -40,6 +40,11 @@ inputData(berat, tinggi);
 
 bmi = hitunganBMI(berat, tinggi);
 
+cout << "Hasil" << endl;
+cout << "BMI anda : " << bmi << endl;
+cout << "status : " << cekStatus(bmi) << endl;
+return 0;
+
 }
 
 
