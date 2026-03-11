@@ -27,11 +27,16 @@ string cekStatus(float bmi){
     return "berat badab kelebihan";
   }
   else if (bmi >= 30){ return "obesitas";}
-  
+
 
 
 }
 
+int main (){ 
+    float berat, tinggi, bmi;
+
+return 0;
+}
 
 
 
