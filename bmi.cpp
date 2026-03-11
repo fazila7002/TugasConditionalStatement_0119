@@ -36,6 +36,10 @@ int main (){
     float berat, tinggi, bmi;
 
 return 0;
+inputData(berat, tinggi);
+
+bmi = hitunganBMI(berat, tinggi);
+
 }
 
 
